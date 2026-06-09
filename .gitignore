@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+checkpoints/
+results/
+data/airfoil_self_noise.dat
+*.pt
