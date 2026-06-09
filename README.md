@@ -1,4 +1,4 @@
-# UQ on NASA Airfoil Surrogate
+# UQ on NASA Airfoil Surrogate: MC Dropout + Conformal Prediction with coverage guarantees.
 
 Neural network surrogate model on the NASA Airfoil Self-Noise dataset with uncertainty quantification via MC Dropout and Conformal Prediction.
 
